@@ -1,0 +1,47 @@
+body {
+    /* width: 150px; */
+    /* height: 150px; */
+    border: 2px solid black;
+    display: flex;
+    margin: auto;
+align-items: center;
+/* align-content: center; */
+    justify-content:space-between;
+
+}
+
+.rojo {
+    width: 150px;
+    height: 150px;
+    background-color: red;
+    /* border: 1px solid black; */
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+
+.azul {
+    width: 150px;
+    height: 150px;
+    background-color: blue;
+    text-align: center;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.verde {
+    width: 150px;
+    height: 150px;
+    background-color: green;
+    text-align: center;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
